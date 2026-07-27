@@ -17,7 +17,6 @@ I'm an **AI Engineer** who ships full-stack, AI-powered products end to end — 
 - 🔬 MSc Medical Imaging Science, University of Manchester (Merit)
 - ⚙️ BEng Biomedical Engineering, Shantou University (Top 30%)
 - 🧠 Currently building RAG pipelines, deep learning models, and full-stack AI products
-- 🎧 Lofi-chill-vibes coder — calm music, sharp code
 - 🌐 Portfolio: **[joychen-ai.vercel.app](https://joychen-ai.vercel.app/)**
 
 ### 🛠️ Tech Stack
@@ -43,36 +42,10 @@ I'm an **AI Engineer** who ships full-stack, AI-powered products end to end — 
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Joynnncode/PantryChef">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joynnncode&repo=PantryChef&theme=radical&hide_border=true&title_color=FFD93D&icon_color=FF6B6B&text_color=ffffff&bg_color=1a1b27"/>
-</a>
-<a href="https://github.com/Joynnncode/medical-image-analysis-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joynnncode&repo=medical-image-analysis-platform&theme=radical&hide_border=true&title_color=6BCB77&icon_color=4D96FF&text_color=ffffff&bg_color=1a1b27"/>
-</a>
-<br/>
-<a href="https://github.com/Joynnncode/chouette-french-shadowing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joynnncode&repo=chouette-french-shadowing&theme=radical&hide_border=true&title_color=9B5DE5&icon_color=FFD93D&text_color=ffffff&bg_color=1a1b27"/>
-</a>
-<a href="https://github.com/Joynnncode/ich-ct-segmentation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joynnncode&repo=ich-ct-segmentation&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=6BCB77&text_color=ffffff&bg_color=1a1b27"/>
-</a>
-
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Joynnncode&show_icons=true&theme=radical&hide_border=true&title_color=FFD93D&icon_color=FF6B6B&text_color=ffffff&bg_color=1a1b27"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joynnncode&layout=compact&theme=radical&hide_border=true&title_color=6BCB77&text_color=ffffff&bg_color=1a1b27"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joynnncode&theme=radical&hide_border=true&background=1a1b27&ring=9B5DE5&fire=FF6B6B&currStreakLabel=FFD93D"/>
-
-</div>
+| | |
+|---|---|
+| **🍲 [PantryChef](https://github.com/Joynnncode/PantryChef)**<br/>Tell PantryChef what's in your kitchen — get matching recipes, a Nutri-Score-style health grade, and RAG-powered Q&A grounded in a meal-prep knowledge base.<br/>![Next.js](https://img.shields.io/badge/Next.js-6BCB77?style=flat-square&logo=next.js&logoColor=white) ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-FF6B6B?style=flat-square&logo=vercel&logoColor=white) | **🧠 [Medical Image Analysis Platform](https://github.com/Joynnncode/medical-image-analysis-platform)**<br/>Full-stack CT/MRI segmentation demo: React + ASP.NET Core + FastAPI/MONAI.<br/>![React](https://img.shields.io/badge/React-4D96FF?style=flat-square&logo=react&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-9B5DE5?style=flat-square&logo=medibangpaint&logoColor=white) |
+| **🇫🇷 [Chouette](https://github.com/Joynnncode/chouette-french-shadowing)**<br/>A French shadowing app: leveled clips, synced transcripts, tap-to-save vocab, AI conversation practice, and AnkiConnect sync.<br/>![TypeScript](https://img.shields.io/badge/TypeScript-FFD93D?style=flat-square&logo=typescript&logoColor=white) | **🩸 [ICH CT Segmentation](https://github.com/Joynnncode/ich-ct-segmentation)**<br/>Intracranial haemorrhage segmentation from non-contrast CT using U-Net-based workflows.<br/>![Python](https://img.shields.io/badge/Python-FF6B6B?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-6BCB77?style=flat-square&logo=pytorch&logoColor=white) |
 
 ### 🤝 Connect with me
 
@@ -80,6 +53,7 @@ I'm an **AI Engineer** who ships full-stack, AI-powered products end to end — 
 
 <a href="https://joychen-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Joynnncode"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joychennn/"><img src="https://img.shields.io/badge/LinkedIn-4D96FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
