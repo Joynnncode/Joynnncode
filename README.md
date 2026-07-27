@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hi,%20I'm%20Joy%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Medical%20Imaging%20%C3%97%20LLMs&descAlignY=55&descSize=18&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9B5DE5" width="100%"/>
 
 <a href="https://joychen-ai.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+full-stack%2C+AI-powered+products+end+to+end;RAG+pipelines+%C2%B7+LLM+integration+%C2%B7+Medical+imaging" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Building+full-stack%2C+AI-powered+products;RAG+pipelines+%C2%B7+LLM+integration+%C2%B7+Medical+imaging" alt="Typing SVG" />
 </a>
 
 </div>
